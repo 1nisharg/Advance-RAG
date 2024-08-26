@@ -1,9 +1,9 @@
-# Advance-RAG
+# Advance-RAG 🏌️
 
 
-# Advanced Retrieval-Augmented Generation (RAG) Model
+# Advanced Retrieval-Augmented Generation (RAG) Model 
 
-This repository contains an advanced implementation of Retrieval-Augmented Generation (RAG) using a combination of state-of-the-art libraries like LangChain, Qdrant, Flashrank, and others. The model is designed to efficiently retrieve, process, and rank information to generate high-quality responses, making it suitable for a wide range of applications, including question-answering systems, chatbots, and more.
+This repository contains an advanced implementation of Retrieval-Augmented Generation (RAG) using a combination of state-of-the-art libraries like **LangChain**, **Qdrant**, **Flashrank**, and **LLAMA PARSER**. The model is designed to efficiently retrieve, process, and rank information to generate high-quality responses, making it suitable for a wide range of applications, including question-answering systems, chatbots, and more.
 
 ## Features
 
